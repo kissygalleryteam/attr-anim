@@ -8,8 +8,9 @@ AttrAnim是一个能对Dom元素或window做scrollLeft/scrollTop属性滚动动�
 
 ## 初始化组件
 		
-    S.use('gallery/attr-anim/1.0/index', function (S, AttrAnim) {
-    	var scrollInstance =  new AttrAnim(document.getElementById('test'),{
+    S.use('kg/attr-anim/1.0.0/index', function (S, AttrAnim) {
+
+        var scrollInstance =  new AttrAnim(document.getElementById('test'),{
                 scrollTop : 150
           },{
             duration : 4,
