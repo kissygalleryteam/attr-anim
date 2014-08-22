@@ -4,7 +4,7 @@ AttrAnim是一个能对Dom元素或window做scrollLeft/scrollTop属性滚动动�
 
 * 版本：1.0
 * 作者：秋知
-* demo：[http://gallery.kissyui.com/attr-anim/1.0/demo/index.html](http://gallery.kissyui.com/attr-anim/1.0/demo/index.html)
+* demo：[http://gallery.kissyui.com/attr-anim/doc/demo/index.html](http://gallery.kissyui.com/attr-anim/1.0/demo/index.html)
 
 ## 初始化组件
 		
